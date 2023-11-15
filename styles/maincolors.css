@@ -108,7 +108,7 @@ a:hover, a:focus,
 
 /*________  gradient________  */
 
-.img-effect:hover {background: linear-gradient(-45deg, #d12881 0%,#ffdd78 100%);}
+.img-effect:hover {background: linear-gradient(-45deg, #d12881 0%,rgb(246 239 68) 100%);}
 
 /*________  Yellow________  */
 
@@ -120,7 +120,7 @@ footer a,
 .post-info i,
 .breadcrumb>.active,
 .gallery-thumb i:hover
- {color:#ffdd78;}
+ {color:rgb(246 239 68);}
  
 .navbar-nav,
 .accordion-button:hover,
@@ -146,7 +146,7 @@ footer a,
 .blog-tags a,
 .date-category,
 .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover
-{background-color:#EC9600;}
+{background-color:rgb(246 239 68);}
 
 
 .team-item img,
@@ -157,7 +157,7 @@ footer a,
 .comment,
 .header-text,
 .open>.dropdown-toggle.btn-default:focus, .open>.dropdown-toggle.btn-default:hover
-{border-color:#EC9600;}
+{border-color:rgb(246 239 68);}
  
 /*________  Secondary yellow________  */
 
