@@ -108,7 +108,7 @@ a:hover, a:focus,
 
 /*________  gradient________  */
 
-.img-effect:hover {background: linear-gradient(-45deg, #d12881 0%,#EC9600 100%);}
+.img-effect:hover {background: linear-gradient(-45deg, #d12881 0%,#ffdd78 100%);}
 
 /*________  Yellow________  */
 
@@ -120,7 +120,7 @@ footer a,
 .post-info i,
 .breadcrumb>.active,
 .gallery-thumb i:hover
- {color:#EC9600;}
+ {color:#ffdd78;}
  
 .navbar-nav,
 .accordion-button:hover,
